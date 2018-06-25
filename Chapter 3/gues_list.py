@@ -2,7 +2,7 @@
 """
 Created on Mon Jun 25 14:01:09 2018
 
-@author: sam
+@author: Rasimsson
 """
 
 guests = ["Elon", "Mark", "Bill", "James"]
